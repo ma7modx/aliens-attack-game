@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Lion-Space-Wallpaper.jpg</Source>
+      <Name>Images\Lion-Space-Wallpaper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\Lion-Space-Wallpaper.xnb</Output>
+      <Time>2013-04-20T05:51:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\stars.png</Source>
+      <Name>Images\stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\stars.xnb</Output>
+      <Time>2013-04-20T06:10:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\stream.png</Source>
+      <Name>Images\stream</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\stream.xnb</Output>
+      <Time>2013-04-20T14:00:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\asteroid.png</Source>
+      <Name>Images\asteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\asteroid.xnb</Output>
+      <Time>2013-05-12T21:32:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\healthbar.png</Source>
+      <Name>Images\healthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\healthbar.xnb</Output>
+      <Time>2013-05-19T02:56:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\xxxx.png</Source>
+      <Name>Images\xxxx</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\xxxx.xnb</Output>
+      <Time>2013-05-19T23:53:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\airplane0.png</Source>
+      <Name>Images\airplane0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\airplane0.xnb</Output>
+      <Time>2013-05-20T00:10:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\airplane1.png</Source>
+      <Name>Images\airplane1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\airplane1.xnb</Output>
+      <Time>2013-05-20T00:10:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\airplane2.png</Source>
+      <Name>Images\airplane2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\airplane2.xnb</Output>
+      <Time>2013-05-20T00:10:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\airplane3.png</Source>
+      <Name>Images\airplane3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\airplane3.xnb</Output>
+      <Time>2013-05-20T00:10:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\airplane4.png</Source>
+      <Name>Images\airplane4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\airplane4.xnb</Output>
+      <Time>2013-05-20T00:10:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\airplane5.png</Source>
+      <Name>Images\airplane5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\airplane5.xnb</Output>
+      <Time>2013-05-20T00:10:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\airplane6.png</Source>
+      <Name>Images\airplane6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\airplane6.xnb</Output>
+      <Time>2013-05-20T00:10:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\128px-Fantasmático_original555.png</Source>
+      <Name>Images\128px-Fantasmático_original555</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\128px-Fantasmático_original555.xnb</Output>
+      <Time>2013-05-20T02:23:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\enemyship.png</Source>
+      <Name>Images\enemyship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\enemyship.xnb</Output>
+      <Time>2013-05-20T02:23:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\images1.png</Source>
+      <Name>Images\images1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\images1.xnb</Output>
+      <Time>2013-05-20T02:23:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\wa2l.png</Source>
+      <Name>Images\wa2l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\wa2l.xnb</Output>
+      <Time>2013-05-20T02:23:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Text Particle.png</Source>
+      <Name>Text Particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Text Particle.xnb</Output>
+      <Time>2013-05-25T23:11:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>about1.png</Source>
+      <Name>about1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\about1.xnb</Output>
+      <Time>2013-05-26T16:42:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>new game.png</Source>
+      <Name>new game</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\new game.xnb</Output>
+      <Time>2013-05-26T16:42:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>options.png</Source>
+      <Name>options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\options.xnb</Output>
+      <Time>2013-05-26T16:42:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>main.PNG</Source>
+      <Name>main</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\main.xnb</Output>
+      <Time>2013-05-26T17:46:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Continue.PNG</Source>
+      <Name>Continue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Continue.xnb</Output>
+      <Time>2013-05-26T17:56:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExIT.PNG</Source>
+      <Name>ExIT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\ExIT.xnb</Output>
+      <Time>2013-05-26T17:56:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>pause.PNG</Source>
+      <Name>pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\pause.xnb</Output>
+      <Time>2013-05-26T18:15:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\playerfire.png</Source>
+      <Name>Images\playerfire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\playerfire.xnb</Output>
+      <Time>2013-05-26T23:27:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\2oo.png</Source>
+      <Name>Images\2oo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\2oo.xnb</Output>
+      <Time>2013-05-26T23:30:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-05-18T22:06:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>font3.spritefont</Source>
+      <Name>font3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\font3.xnb</Output>
+      <Time>2013-05-24T23:48:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2013-05-25T23:11:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Score.spritefont</Source>
+      <Name>Score</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Score.xnb</Output>
+      <Time>2013-05-27T01:54:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>music\AC2_Ezios_Family.mp3</Source>
+      <Name>music\AC2_Ezios_Family</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\music\AC2_Ezios_Family.xnb</Output>
+      <Extra>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\music\AC2_Ezios_Family.wma</Extra>
+      <Time>2013-05-26T23:11:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>music\playershoot1.wav</Source>
+      <Name>music\playershoot1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\music\playershoot1.xnb</Output>
+      <Time>2013-05-26T23:14:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\download (2).png</Source>
+      <Name>Images\download (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\Images\download (2).xnb</Output>
+      <Time>2013-05-27T10:55:57.7203039+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7DF3C8F7-F385-4D1E-8809-B4D75E4307F9}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP ProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\mahmoud\Desktop\Final )\OOP Project\OOP Project\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-18T01:43:09.6059822+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
